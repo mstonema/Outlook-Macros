@@ -1,5 +1,5 @@
-# Outlook-Macros
-My Outlook Macros
+# Outlook-Macros VBA
+
 
 Option Explicit
 
